@@ -1,1 +1,2 @@
 # QwenFinetunning
+A lightweight and unified approach for Table Structure Recognition (TSR) using instruction-tuned Multimodal Large Language Models (MLLMs) with parameter-efficient fine-tuning (QLoRA). This project demonstrates how MLLMs can learn table structural representations directly, reducing reliance on complex multi-stage pipelines while maintaining competitive performance on standard benchmarks.
